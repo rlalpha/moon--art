@@ -12,7 +12,7 @@ let spot={
 
 
 function setup() { 
-  createCanvas(500, 500);
+  createCanvas(1920, 1080);
   frameRate(10);
 } 
 
